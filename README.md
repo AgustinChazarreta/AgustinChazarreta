@@ -49,14 +49,9 @@ Siempre estoy aprendiendo algo nuevo, así que este apartado seguirá creciendo.
 
 ¿Te interesa colaborar en un proyecto o simplemente charlar sobre tecnología? Puedes encontrarme aquí:
 
-<div style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/agustin-chazarreta" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn">
   </a>
-  <a href="mailto:destinatario@example.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail">
-  </a>
-</div>
 
 ---
 
