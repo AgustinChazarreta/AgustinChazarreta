@@ -9,23 +9,16 @@ Soy estudiante de **Ingeniería en Computación** y me apasiona el **desarrollo 
 ### 💻 Tecnologías conocidas
 
 ### **Front-end:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=light)](https://skillicons.dev)
 
 ### **Backend y bases de datos:**
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
 
 ### **Lenguajes:**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,py,c&theme=light)](https://skillicons.dev)
 
 ### **Herramientas:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+[![My Skills](https://skillicons.dev/icons?i=git,vscode&theme=light)](https://skillicons.dev)
 
 Siempre estoy aprendiendo algo nuevo, así que este apartado seguirá creciendo. 😊  
 
@@ -33,7 +26,7 @@ Siempre estoy aprendiendo algo nuevo, así que este apartado seguirá creciendo.
 
 ### 🌟 Algunos de mis proyectos favoritos 
 
-- **[🐾 PetZone](https://github.com/tu-usuario/petzone):**  
+- **[🐾 PetZone](https://agustinchazarreta.github.io/Ecommerce-PetZone-/):**  
   Un e-commerce para mascotas con diseño **100% responsive**. Usé Flexbox, Grid y media queries para adaptarlo a cualquier pantalla.  
 
 ---
@@ -49,14 +42,21 @@ Siempre estoy aprendiendo algo nuevo, así que este apartado seguirá creciendo.
 ### 📊 Un vistazo rápido a mi GitHub
 
 ![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=AgustinChazarreta&show_icons=true&theme=tokyonight)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinChazarreta&layout=compact&theme=tokyonight)  
 
 ---
 
-### 📫 Hablemos  
+### 📫 Contacto  
 
-¿Te interesa colaborar en un proyecto o simplemente charlar sobre tecnología? Puedes encontrarme aquí:  
-<p align="left"> <a href="https://www.github.com/AgustinChazarreta" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/agustin-chazarreta" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+¿Te interesa colaborar en un proyecto o simplemente charlar sobre tecnología? Puedes encontrarme aquí:
+
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.linkedin.com/in/agustin-chazarreta" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn">
+  </a>
+  <a href="mailto:destinatario@example.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail">
+  </a>
+</div>
 
 ---
 
