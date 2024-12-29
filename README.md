@@ -6,19 +6,8 @@ Soy estudiante de **Ingeniería en Computación** y me apasiona el **desarrollo 
 
 ---
 
-### 💻 Tecnologías conocidas
-
-### **Front-end:**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=light)](https://skillicons.dev)
-
-### **Backend y bases de datos:**
-[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
-
-### **Lenguajes:**
-[![My Skills](https://skillicons.dev/icons?i=java,py,c&theme=light)](https://skillicons.dev)
-
-### **Herramientas:**
-[![My Skills](https://skillicons.dev/icons?i=git,vscode&theme=light)](https://skillicons.dev)
+### 💻 Tecnologías
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,java,py,c,mysql,git,vscode&theme=light)](https://skillicons.dev)
 
 Siempre estoy aprendiendo algo nuevo, así que este apartado seguirá creciendo. 😊  
 
