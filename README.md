@@ -20,27 +20,9 @@ Siempre estoy aprendiendo algo nuevo, así que este apartado seguirá creciendo.
 
 ---
 
-### 🎯 ¿Qué quiero lograr? 
-
-- Seguir aprendiendo frameworks como React y Vue.js.  
-- Contribuir a proyectos open-source y compartir lo que sé con la comunidad.  
-- ¡Llegar a ser un desarrollador full-stack!  
-
----
-
 ### 📊 Un vistazo rápido a mi GitHub
 
-![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=AgustinChazarreta&show_icons=true&theme=tokyonight)  
-
----
-
-### 📫 Contacto  
-
-¿Te interesa colaborar en un proyecto o simplemente charlar sobre tecnología? Puedes encontrarme aquí:
-
-  <a href="https://www.linkedin.com/in/agustin-chazarreta" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn">
-  </a>
+![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=AgustinChazarreta&show_icons=true&theme=gotham)  
 
 ---
 
