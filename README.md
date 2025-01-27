@@ -15,7 +15,9 @@ Siempre estoy aprendiendo algo nuevo, así que este apartado seguirá creciendo.
 
 ### 🌟 Algunos de mis proyectos favoritos 
 
-- **[🐾 PetZone](https://agustinchazarreta.github.io/Ecommerce-PetZone-/):**  
+- **[🔍 REST-Countries-API](https://agustinchazarreta.github.io/REST-Countries-API/)**  
+  Una aplicación web que permite a los usuarios buscar información sobre diferentes países. Se pueden buscar países, filtrarlos por regiones y ver información detallada sobre cada uno.
+- **[🐾 PetZone](https://agustinchazarreta.github.io/Ecommerce-PetZone-/)**  
   Un e-commerce para mascotas con diseño **100% responsive**. Usé Flexbox, Grid y media queries para adaptarlo a cualquier pantalla.  
 
 ---
