@@ -7,7 +7,7 @@ Soy estudiante de **Ingeniería en Computación** y me apasiona el **desarrollo 
 ---
 
 ### 💻 Tecnologías
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,java,py,c,mysql,git,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,java,py,django,c,mysql,git,vscode&theme=light)](https://skillicons.dev)
 
 Siempre estoy aprendiendo algo nuevo, así que este apartado seguirá creciendo. 😊  
 
